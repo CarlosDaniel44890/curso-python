@@ -1,0 +1,3 @@
+# Bibliotecas externas usadas no curso (instale com: pip install -r requirements.txt)
+# Por enquanto não há nenhuma; adicione aqui conforme for usando, por exemplo:
+# requests
